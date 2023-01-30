@@ -1,9 +1,9 @@
 import 'package:blocauthentication/authentication/bloc/authentication_bloc.dart';
-import 'package:blocauthentication/pages/home.dart';
+import 'package:blocauthentication/home/home.dart';
 import 'package:blocauthentication/login/login.dart';
 import 'package:blocauthentication/repo/authentication_repository.dart';
 import 'package:blocauthentication/repo/user_repository.dart';
-import 'package:blocauthentication/splash.dart';
+import 'package:blocauthentication/splash/splash.dart';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
